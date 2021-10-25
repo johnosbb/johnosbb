@@ -1,6 +1,6 @@
-### Hi there 👋
 
-# Last 5 Books I've Read 🤓
+
+# Last 5 Books I've Read 
 <!-- GOODREADS-LIST:START -->
 <!-- GOODREADS-LIST:END -->
 
