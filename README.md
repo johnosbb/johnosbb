@@ -1,12 +1,13 @@
 
 
+### What I'm Currently Reading 📚
+<!-- GOODREADS-LIST:START -->
 
+<!-- GOODREADS-LIST:END -->
+
+### Last 5 Books I've Read 📚
 <!-- GOODREADS-READ-LIST:START -->
-- [Things Fall Apart (The African Trilogy, #1)](https://www.goodreads.com/review/show/3223069400?utm_medium=api&utm_source=rss) by Chinua Achebe (⭐⭐⭐⭐⭐)
-- [The Luzhin Defense](https://www.goodreads.com/review/show/3223068961?utm_medium=api&utm_source=rss) by Vladimir Nabokov (⭐⭐⭐⭐)
-- [Pale Fire](https://www.goodreads.com/review/show/3223068830?utm_medium=api&utm_source=rss) by Vladimir Nabokov (⭐⭐⭐⭐⭐)
-- [Lolita](https://www.goodreads.com/review/show/3223068832?utm_medium=api&utm_source=rss) by Vladimir Nabokov (⭐⭐⭐⭐⭐)
-- [The Book Lovers: A love story for the shy and bookish](https://www.goodreads.com/review/show/3220576877?utm_medium=api&utm_source=rss) by Aaron Kristen (⭐⭐⭐⭐⭐)
+
 <!-- GOODREADS-READ-LIST:END -->
 
 <!--
