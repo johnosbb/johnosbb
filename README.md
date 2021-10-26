@@ -2,7 +2,8 @@
 
 ### What I'm Currently Reading 📚
 <!-- GOODREADS-LIST:START -->
-
+- [Animal Farm / 1984](https://www.goodreads.com/review/show/4307475159?utm_medium=api&utm_source=rss) by George Orwell (⭐️4.29)
+- [The Sea, The Sea](https://www.goodreads.com/review/show/4307472283?utm_medium=api&utm_source=rss) by Iris Murdoch (⭐️3.94)
 <!-- GOODREADS-LIST:END -->
 
 ### Last 5 Books I've Read 📚
