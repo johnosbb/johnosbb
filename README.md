@@ -1,8 +1,8 @@
 
 
 
-<!-- GOODREADS-LIST:START -->
-<!-- GOODREADS-LIST:END -->
+<!-- GOODREADS-READ-LIST:START -->
+<!-- GOODREADS-READ-LIST:END -->
 
 <!--
 **johnosbb/johnosbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
