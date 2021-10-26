@@ -8,11 +8,11 @@
 
 ### Last 5 Books I've Read 📚
 <!-- GOODREADS-READ-LIST:START -->
+- [Under the Volcano](https://www.goodreads.com/review/show/4307478010?utm_medium=api&utm_source=rss) by Malcolm Lowry (⭐⭐⭐⭐⭐)
+- [Darkness at Noon](https://www.goodreads.com/review/show/4307476887?utm_medium=api&utm_source=rss) by Arthur Koestler (unrated)
+- [Brave New World](https://www.goodreads.com/review/show/4307475584?utm_medium=api&utm_source=rss) by Aldous Huxley (unrated)
 - [Things Fall Apart (The African Trilogy, #1)](https://www.goodreads.com/review/show/3223069400?utm_medium=api&utm_source=rss) by Chinua Achebe (⭐⭐⭐⭐⭐)
 - [The Luzhin Defense](https://www.goodreads.com/review/show/3223068961?utm_medium=api&utm_source=rss) by Vladimir Nabokov (⭐⭐⭐⭐)
-- [Pale Fire](https://www.goodreads.com/review/show/3223068830?utm_medium=api&utm_source=rss) by Vladimir Nabokov (⭐⭐⭐⭐⭐)
-- [Lolita](https://www.goodreads.com/review/show/3223068832?utm_medium=api&utm_source=rss) by Vladimir Nabokov (⭐⭐⭐⭐⭐)
-- [The Book Lovers: A love story for the shy and bookish](https://www.goodreads.com/review/show/3220576877?utm_medium=api&utm_source=rss) by Aaron Kristen (⭐⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!--
