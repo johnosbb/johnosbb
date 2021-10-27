@@ -1,7 +1,7 @@
 ### Main Projects ###
-[Grammatical Evolution](https://github.com/johnosbb/Grammatical-Evolution)
-[Automation Wiki](https://github.com/johnosbb/Grammatical-Evolution)
-[Cyber Security and Cyber Tools](https://github.com/johnosbb/CyberTools)
+- [Grammatical Evolution - Completed for my Research Master's Thesis](https://github.com/johnosbb/Grammatical-Evolution)
+- [Automation Wiki](https://github.com/johnosbb/Grammatical-Evolution)
+- [Cyber Security and Cyber Tools](https://github.com/johnosbb/CyberTools)
 
 
 ### What I'm Currently Reading 📚
