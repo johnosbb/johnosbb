@@ -1,3 +1,5 @@
+### Main Projects ###
+[Grammatical Evolution](https://github.com/johnosbb/Grammatical-Evolution)
 
 
 ### What I'm Currently Reading 📚
