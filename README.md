@@ -2,7 +2,7 @@
 - [Grammatical Evolution - Completed for my Research Master's Thesis](https://github.com/johnosbb/Grammatical-Evolution)
 - [Automation Wiki](https://github.com/johnosbb/Grammatical-Evolution)
 - [Cyber Security and Cyber Tools](https://github.com/johnosbb/CyberTools)
-- [Creative Editor](https://github.com/johnosbb/CeativeEditor)
+- [Lyrical - A editor for Creative Writing](https://github.com/johnosbb/CeativeEditor)
 
 
 ### What I'm Currently Reading 📚
