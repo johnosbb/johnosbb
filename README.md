@@ -1,7 +1,13 @@
 ### Main Projects ###
-[Grammatical Evolution - Completed for my Research Master's Thesis](https://github.com/johnosbb/Grammatical-Evolution) <img src="https://github.com/johnosbb/Grammatical-Evolution/blob/main/ga.png" width="400">
+<p align="center">
+    [Grammatical Evolution - Completed for my Research Master's Thesis](https://github.com/johnosbb/Grammatical-Evolution) <img src="https://github.com/johnosbb/Grammatical-Evolution/blob/main/ga.png" width="400">
+</p>
 
-[Lyrical - A editor for Creative Writing](https://github.com/johnosbb/CeativeEditor) <img src="https://github.com/johnosbb/Lyrical/blob/main/Lyrical.png" width="400">
+<p align="center">
+   [Lyrical - A editor for Creative Writing](https://github.com/johnosbb/CeativeEditor) <img src="https://github.com/johnosbb/Lyrical/blob/main/Lyrical.png" width="400">
+</p>
+
+
 
 [Automation Wiki](https://github.com/johnosbb/Grammatical-Evolution)
 
