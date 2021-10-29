@@ -1,17 +1,26 @@
 ### Main Projects ###
-<p align="center">
-    [Grammatical Evolution - Completed for my Research Master's Thesis](https://github.com/johnosbb/Grammatical-Evolution) <img src="https://github.com/johnosbb/Grammatical-Evolution/blob/main/ga.png" width="400">
-</p>
+<div align="center">
+    <h3>Grammatical Evolution - Master's Thesis</h3>
+     <a href="https://github.com/johnosbb/Grammatical-Evolution">
+         <img alt="Qries" src="https://github.com/johnosbb/Grammatical-Evolution/blob/main/ga.png"
+         width=400">
+      </a>
+  
+</div>
 
-<p align="center">
-   [Lyrical - A editor for Creative Writing](https://github.com/johnosbb/CeativeEditor) <img src="https://github.com/johnosbb/Lyrical/blob/main/Lyrical.png" width="400">
-</p>
+<div align="center">
+     <h3>Lyrical - The First Choice for Creative Writing</h3>
+     <a href="https://github.com/johnosbb/Lyrical">
+         <img alt="Qries" src="https://github.com/johnosbb/Lyrical/blob/main/Lyrical.png"
+         width=400">
+      </a>
+   
+</div>
 
 
-
-[Automation Wiki](https://github.com/johnosbb/Grammatical-Evolution)
-
-[Cyber Security and Cyber Tools](https://github.com/johnosbb/CyberTools)
+### Other Projects 🔭
+ - [Automation Wiki](https://github.com/johnosbb/Grammatical-Evolution)
+ - [Cyber Security and Cyber Tools](https://github.com/johnosbb/CyberTools)
 
 
 
