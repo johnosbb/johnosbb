@@ -1,8 +1,9 @@
 ### Main Projects ###
-- [Grammatical Evolution - Completed for my Research Master's Thesis](https://github.com/johnosbb/Grammatical-Evolution) <img src="https://github.com/johnosbb/Grammatical-Evolution/blob/main/ga.png" width="800">
+- [Grammatical Evolution - Completed for my Research Master's Thesis](https://github.com/johnosbb/Grammatical-Evolution) <img src="https://github.com/johnosbb/Grammatical-Evolution/blob/main/ga.png" width="600">
+- [Lyrical - A editor for Creative Writing](https://github.com/johnosbb/CeativeEditor) <img src="https://github.com/johnosbb/Lyrical/blob/main/Lyrical.png" width="600">
 - [Automation Wiki](https://github.com/johnosbb/Grammatical-Evolution)
 - [Cyber Security and Cyber Tools](https://github.com/johnosbb/CyberTools)
-- [Lyrical - A editor for Creative Writing](https://github.com/johnosbb/CeativeEditor)
+
 
 
 ### What I'm Currently Reading 📚
