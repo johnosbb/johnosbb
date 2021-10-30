@@ -19,7 +19,7 @@
 
 
 ### Other Projects 🔭
- - [Automation Wiki](https://github.com/johnosbb/Grammatical-Evolution)
+ - [Automation Wiki](https://github.com/johnosbb/Automation)
  - [Cyber Security and Cyber Tools](https://github.com/johnosbb/CyberTools)
 
 
