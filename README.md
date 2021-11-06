@@ -22,7 +22,9 @@
  - [Automation Wiki](https://github.com/johnosbb/Automation)
  - [Cyber Security and Cyber Tools](https://github.com/johnosbb/CyberTools)
 
-
+### Publications
+- [Follow me on Google Scholar](https://scholar.google.com/citations?user=JLblTiIAAAAJ&hl=en&oi=sra)
+- [An Investigation into the Use of Different Search Strategies with Grammatical Evolution](https://link.springer.com/chapter/10.1007/3-540-45984-7_26)
 
 ### What I'm Currently Reading 📚
 <!-- GOODREADS-LIST:START -->
