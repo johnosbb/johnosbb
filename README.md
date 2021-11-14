@@ -29,7 +29,7 @@
 ### What I'm Currently Reading 📚
 <!-- GOODREADS-LIST:START -->
 - [Animal Farm / 1984](https://www.goodreads.com/review/show/4307475159?utm_medium=api&utm_source=rss) by George Orwell (⭐️4.29)
-- [Olga](https://www.goodreads.com/review/show/4325719827?utm_medium=api&utm_source=rss) by Bernhard Schlink (⭐️3.65)
+- [Pietr the Latvian (Maigret #1)](https://www.goodreads.com/review/show/4335981949?utm_medium=api&utm_source=rss) by Georges Simenon (⭐️3.46)
 <!-- GOODREADS-LIST:END -->
 
 ### Last 5 Books I've Read 📚
