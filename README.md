@@ -30,6 +30,8 @@
 <!-- GOODREADS-LIST:START -->
 - [Animal Farm / 1984](https://www.goodreads.com/review/show/4307475159?utm_medium=api&utm_source=rss) by George Orwell (⭐️4.29)
 - [Pietr the Latvian (Maigret #1)](https://www.goodreads.com/review/show/4335981949?utm_medium=api&utm_source=rss) by Georges Simenon (⭐️3.46)
+- [The Quiet American](https://www.goodreads.com/review/show/4339341286?utm_medium=api&utm_source=rss) by Graham Greene (⭐️3.94)
+- [Tin Man](https://www.goodreads.com/review/show/4339341005?utm_medium=api&utm_source=rss) by Sarah Winman (⭐️3.94)
 <!-- GOODREADS-LIST:END -->
 
 ### Last 5 Books I've Read 📚
