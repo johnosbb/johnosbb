@@ -38,8 +38,8 @@
 - [Under the Volcano](https://www.goodreads.com/review/show/4307478010?utm_medium=api&utm_source=rss) by Malcolm Lowry (⭐⭐⭐⭐⭐)
 - [Darkness at Noon](https://www.goodreads.com/review/show/4307476887?utm_medium=api&utm_source=rss) by Arthur Koestler (unrated)
 - [Brave New World](https://www.goodreads.com/review/show/4307475584?utm_medium=api&utm_source=rss) by Aldous Huxley (unrated)
-- [Things Fall Apart (The African Trilogy, #1)](https://www.goodreads.com/review/show/3223069400?utm_medium=api&utm_source=rss) by Chinua Achebe (⭐⭐⭐⭐⭐)
-- [The Luzhin Defense](https://www.goodreads.com/review/show/3223068961?utm_medium=api&utm_source=rss) by Vladimir Nabokov (⭐⭐⭐⭐)
+- [Pietr the Latvian (Maigret #1)](https://www.goodreads.com/review/show/4335981949?utm_medium=api&utm_source=rss) by Georges Simenon (unrated)
+- [The Prophet](https://www.goodreads.com/review/show/4341215017?utm_medium=api&utm_source=rss) by Kahlil Gibran (⭐⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!--
