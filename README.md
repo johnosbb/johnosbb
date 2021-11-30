@@ -34,11 +34,11 @@
 
 ### Last 5 Books I've Read 📚
 <!-- GOODREADS-READ-LIST:START -->
-- [Under the Volcano](https://www.goodreads.com/review/show/4307478010?utm_medium=api&utm_source=rss) by Malcolm Lowry (⭐⭐⭐⭐⭐)
-- [Darkness at Noon](https://www.goodreads.com/review/show/4307476887?utm_medium=api&utm_source=rss) by Arthur Koestler (unrated)
-- [Brave New World](https://www.goodreads.com/review/show/4307475584?utm_medium=api&utm_source=rss) by Aldous Huxley (unrated)
-- [Pietr the Latvian (Maigret #1)](https://www.goodreads.com/review/show/4335981949?utm_medium=api&utm_source=rss) by Georges Simenon (unrated)
-- [The Prophet](https://www.goodreads.com/review/show/4341215017?utm_medium=api&utm_source=rss) by Kahlil Gibran (⭐⭐⭐⭐⭐)
+- [Absalom, Absalom!](https://www.goodreads.com/review/show/4363406799?utm_medium=api&utm_source=rss) by William Faulkner (⭐⭐⭐)
+- [Fingersmith](https://www.goodreads.com/review/show/4363406061?utm_medium=api&utm_source=rss) by Sarah Waters (⭐⭐⭐⭐)
+- [Beloved](https://www.goodreads.com/review/show/4363406019?utm_medium=api&utm_source=rss) by Toni Morrison (⭐⭐⭐)
+- [One Hundred Years of Solitude](https://www.goodreads.com/review/show/4363405819?utm_medium=api&utm_source=rss) by Gabriel García Márquez (⭐⭐⭐⭐)
+- [Wolf Hall (Thomas Cromwell #1)](https://www.goodreads.com/review/show/4363405606?utm_medium=api&utm_source=rss) by Hilary Mantel (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!--
