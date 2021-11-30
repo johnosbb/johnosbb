@@ -29,8 +29,7 @@
 ### What I'm Currently Reading 📚
 <!-- GOODREADS-LIST:START -->
 - [Animal Farm / 1984](https://www.goodreads.com/review/show/4307475159?utm_medium=api&utm_source=rss) by George Orwell (⭐️4.29)
-- [The Quiet American](https://www.goodreads.com/review/show/4339341286?utm_medium=api&utm_source=rss) by Graham Greene (⭐️3.94)
-- [Tin Man](https://www.goodreads.com/review/show/4339341005?utm_medium=api&utm_source=rss) by Sarah Winman (⭐️3.94)
+- [On Tyranny: Twenty Lessons from the Twentieth Century](https://www.goodreads.com/review/show/4362375653?utm_medium=api&utm_source=rss) by Timothy Snyder (⭐️4.16)
 <!-- GOODREADS-LIST:END -->
 
 ### Last 5 Books I've Read 📚
