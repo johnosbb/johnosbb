@@ -34,11 +34,11 @@
 
 ### Last 5 Books I've Read 📚
 <!-- GOODREADS-READ-LIST:START -->
+- [The Way of All Flesh](https://www.goodreads.com/review/show/4364398127?utm_medium=api&utm_source=rss) by Samuel Butler (⭐⭐⭐⭐⭐)
+- [The Diving Bell and the Butterfly](https://www.goodreads.com/review/show/4364396144?utm_medium=api&utm_source=rss) by Jean-Dominique Bauby (⭐⭐⭐⭐⭐)
 - [Absalom, Absalom!](https://www.goodreads.com/review/show/4363406799?utm_medium=api&utm_source=rss) by William Faulkner (⭐⭐⭐)
 - [Fingersmith](https://www.goodreads.com/review/show/4363406061?utm_medium=api&utm_source=rss) by Sarah Waters (⭐⭐⭐⭐)
 - [Beloved](https://www.goodreads.com/review/show/4363406019?utm_medium=api&utm_source=rss) by Toni Morrison (⭐⭐⭐)
-- [One Hundred Years of Solitude](https://www.goodreads.com/review/show/4363405819?utm_medium=api&utm_source=rss) by Gabriel García Márquez (⭐⭐⭐⭐)
-- [Wolf Hall (Thomas Cromwell #1)](https://www.goodreads.com/review/show/4363405606?utm_medium=api&utm_source=rss) by Hilary Mantel (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!--
