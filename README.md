@@ -29,7 +29,7 @@
 ### What I'm Currently Reading 📚
 <!-- GOODREADS-LIST:START -->
 - [Animal Farm / 1984](https://www.goodreads.com/review/show/4307475159?utm_medium=api&utm_source=rss) by George Orwell (⭐️4.29)
-- [farenheit 451--60th anniversary edition](https://www.goodreads.com/review/show/4366088209?utm_medium=api&utm_source=rss) by Ray Bradbury (⭐️3.81)
+- [farenheit 451--60th anniversary edition](https://www.goodreads.com/review/show/4366088209?utm_medium=api&utm_source=rss) by Ray Bradbury (⭐️3.82)
 <!-- GOODREADS-LIST:END -->
 
 ### Last 5 Books I've Read 📚
