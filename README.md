@@ -28,7 +28,7 @@
 
 ### What I'm Currently Reading 📚
 <!-- GOODREADS-LIST:START -->
-- [Animal Farm / 1984](https://www.goodreads.com/review/show/4307475159?utm_medium=api&utm_source=rss) by George Orwell (⭐️4.29)
+- [The Plot to Hack America](https://www.goodreads.com/review/show/4422803114?utm_medium=api&utm_source=rss) by Malcolm Nance (⭐️5)
 <!-- GOODREADS-LIST:END -->
 
 ### Last 5 Books I've Read 📚
