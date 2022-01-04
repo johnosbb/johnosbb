@@ -28,8 +28,7 @@
 
 ### What I'm Currently Reading 📚
 <!-- GOODREADS-LIST:START -->
-- [The Plot to Hack America](https://www.goodreads.com/review/show/4422803114?utm_medium=api&utm_source=rss) by Malcolm Nance (⭐️5)
-- [Still Life](https://www.goodreads.com/review/show/4427708859?utm_medium=api&utm_source=rss) by Sarah Winman (⭐️3.94)
+- [Still Life](https://www.goodreads.com/review/show/4427708859?utm_medium=api&utm_source=rss) by Sarah Winman (⭐️3.95)
 <!-- GOODREADS-LIST:END -->
 
 ### Last 5 Books I've Read 📚
