@@ -28,7 +28,7 @@
 
 ### What I'm Currently Reading 📚
 <!-- GOODREADS-LIST:START -->
-- [Deepfakes: The Coming Infocalypse](https://www.goodreads.com/review/show/4465114352?utm_medium=api&utm_source=rss) by Nina Schick (⭐️3.68)
+- [Deepfakes: The Coming Infocalypse](https://www.goodreads.com/review/show/4465114352?utm_medium=api&utm_source=rss) by Nina Schick (⭐️3.67)
 <!-- GOODREADS-LIST:END -->
 
 ### Last 5 Books I've Read 📚
