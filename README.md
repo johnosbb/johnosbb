@@ -54,3 +54,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Working with GitHub
+* Setting the origin using an access token - git remote set-url origin https://yourpat@github.com/yourusername/yourrepository.git/
