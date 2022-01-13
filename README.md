@@ -56,5 +56,5 @@ Here are some ideas to get you started:
 -->
 
 
-# Working with GitHub
+### Working with GitHub
 * Setting the origin using an access token - git remote set-url origin https://yourpat@github.com/yourusername/yourrepository.git/
