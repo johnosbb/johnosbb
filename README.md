@@ -28,8 +28,8 @@
 
 ### What I'm Currently Reading 📚
 <!-- GOODREADS-LIST:START -->
-- [Piranesi](https://www.goodreads.com/review/show/4470975994?utm_medium=api&utm_source=rss) by Susanna Clarke (⭐️4.28)
-- [Deepfakes: The Coming Infocalypse](https://www.goodreads.com/review/show/4465114352?utm_medium=api&utm_source=rss) by Nina Schick (⭐️3.67)
+- [The Things They Carried](https://www.goodreads.com/review/show/4366056326?utm_medium=api&utm_source=rss) by Tim O&apos;Brien (⭐️4.12)
+- [Seven Brief Lessons on Physics](https://www.goodreads.com/review/show/4474703456?utm_medium=api&utm_source=rss) by Carlo Rovelli (⭐️3.94)
 <!-- GOODREADS-LIST:END -->
 
 ### Last 5 Books I've Read 📚
