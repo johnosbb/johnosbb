@@ -28,8 +28,7 @@
 
 ### What I'm Currently Reading 📚
 <!-- GOODREADS-LIST:START -->
-- [The Things They Carried](https://www.goodreads.com/review/show/4366056326?utm_medium=api&utm_source=rss) by Tim O&apos;Brien (⭐️4.12)
-- [Seven Brief Lessons on Physics](https://www.goodreads.com/review/show/4474703456?utm_medium=api&utm_source=rss) by Carlo Rovelli (⭐️3.94)
+- [A Very Expensive Poison: The Definitive Story of the Murder of Litvinenko and Russia's War with the West](https://www.goodreads.com/review/show/4496994697?utm_medium=api&utm_source=rss) by Luke Harding (⭐️4.25)
 <!-- GOODREADS-LIST:END -->
 
 ### Last 5 Books I've Read 📚
