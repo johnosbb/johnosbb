@@ -28,7 +28,7 @@
 
 ### What I'm Currently Reading 📚
 <!-- GOODREADS-LIST:START -->
-- [A Very Expensive Poison: The Definitive Story of the Murder of Litvinenko and Russia's War with the West](https://www.goodreads.com/review/show/4496994697?utm_medium=api&utm_source=rss) by Luke Harding (⭐️4.25)
+- [Misfire: Inside the Downfall of the NRA](https://www.goodreads.com/review/show/4496995403?utm_medium=api&utm_source=rss) by Tim Mak (⭐️3.95)
 <!-- GOODREADS-LIST:END -->
 
 ### Last 5 Books I've Read 📚
