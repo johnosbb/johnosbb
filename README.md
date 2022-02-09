@@ -28,7 +28,7 @@
 
 ### What I'm Currently Reading 📚
 <!-- GOODREADS-LIST:START -->
-- [Misfire: Inside the Downfall of the NRA](https://www.goodreads.com/review/show/4496995403?utm_medium=api&utm_source=rss) by Tim Mak (⭐️3.97)
+- [Misfire: Inside the Downfall of the NRA](https://www.goodreads.com/review/show/4496995403?utm_medium=api&utm_source=rss) by Tim Mak (⭐️3.98)
 <!-- GOODREADS-LIST:END -->
 
 ### Last 5 Books I've Read 📚
