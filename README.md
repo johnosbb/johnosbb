@@ -28,7 +28,7 @@
 
 ### What I'm Currently Reading 📚
 <!-- GOODREADS-LIST:START -->
-- [Misfire: Inside the Downfall of the NRA](https://www.goodreads.com/review/show/4496995403?utm_medium=api&utm_source=rss) by Tim Mak (⭐️3.98)
+- [Misfire: Inside the Downfall of the NRA](https://www.goodreads.com/review/show/4496995403?utm_medium=api&utm_source=rss) by Tim Mak (⭐️4)
 - [The Piano Shop on the Left Bank: Discovering a Forgotten Passion in a Paris Atelier](https://www.goodreads.com/review/show/4529285402?utm_medium=api&utm_source=rss) by Thad Carhart (⭐️4.02)
 <!-- GOODREADS-LIST:END -->
 
