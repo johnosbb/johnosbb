@@ -62,3 +62,6 @@ Here are some ideas to get you started:
 * git config --global user.email <your email>
 * git config -l
 * git config --global credential.helper cache
+* git status , get a status of all files
+    
+    
