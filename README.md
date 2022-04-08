@@ -65,4 +65,7 @@ Here are some ideas to get you started:
 * git config --global credential.helper cache
 * git status , get a status of all files
     
+#### Setting a token
+- [Generating a PAT Token](https://github.com/settings/tokens/)
+    
     
