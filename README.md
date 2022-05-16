@@ -30,6 +30,7 @@
 <!-- GOODREADS-LIST:START -->
 - [The Origins of Totalitarianism](https://www.goodreads.com/review/show/4618985717?utm_medium=api&utm_source=rss) by Hannah Arendt (⭐️4.3)
 - [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.goodreads.com/review/show/4617796276?utm_medium=api&utm_source=rss) by Aurélien Géron (⭐️4.55)
+- [Autumn (Seasonal, #1)](https://www.goodreads.com/review/show/4727414674?utm_medium=api&utm_source=rss) by Ali Smith (⭐️3.71)
 <!-- GOODREADS-LIST:END -->
 
 ### Last 5 Books I've Read 📚
