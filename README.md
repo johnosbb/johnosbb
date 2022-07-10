@@ -30,9 +30,8 @@
 <!-- GOODREADS-LIST:START -->
 - [The Origins of Totalitarianism](https://www.goodreads.com/review/show/4618985717?utm_medium=api&utm_source=rss) by Hannah Arendt (⭐️4.29)
 - [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.goodreads.com/review/show/4617796276?utm_medium=api&utm_source=rss) by Aurélien Géron (⭐️4.55)
+- [Flutter for Beginners: An introductory guide to building cross-platform mobile applications with Flutter 2.5 and Dart, 2nd Edition](https://www.goodreads.com/review/show/4838144718?utm_medium=api&utm_source=rss) by Thomas Bailey (⭐️5)
 - [UNIX for Dummies](https://www.goodreads.com/review/show/4709140028?utm_medium=api&utm_source=rss) by John R. Levine (⭐️3.36)
-- [The Next Civil War: Dispatches from the American Future](https://www.goodreads.com/review/show/4566347048?utm_medium=api&utm_source=rss) by Stephen Marche (⭐️3.63)
-- [Love at Goon Park: Harry Harlow and the Science of Affection](https://www.goodreads.com/review/show/4671275552?utm_medium=api&utm_source=rss) by Deborah Blum (⭐️4.21)
 <!-- GOODREADS-LIST:END -->
 
 ### Last 5 Books I've Read 📚
