@@ -68,5 +68,5 @@ Here are some ideas to get you started:
     
 #### Setting a token
 - [Generating a PAT Token](https://github.com/settings/tokens/)
-    
+- [How to commit without using password](https://levelup.gitconnected.com/fix-password-authentication-github-3395e579ce74)    
     
