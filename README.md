@@ -31,7 +31,6 @@
 - [The Origins of Totalitarianism](https://www.goodreads.com/review/show/4618985717?utm_medium=api&utm_source=rss) by Hannah Arendt (⭐️4.29)
 - [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.goodreads.com/review/show/4617796276?utm_medium=api&utm_source=rss) by Aurélien Géron (⭐️4.54)
 - [UNIX for Dummies](https://www.goodreads.com/review/show/4709140028?utm_medium=api&utm_source=rss) by John R. Levine (⭐️3.36)
-- [Buddenbrooks: The Decline of a Family](https://www.goodreads.com/review/show/5007552997?utm_medium=api&utm_source=rss) by Thomas Mann (⭐️4.16)
 <!-- GOODREADS-LIST:END -->
 
 ### Last 5 Books I've Read 📚
