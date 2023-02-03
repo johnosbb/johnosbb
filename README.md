@@ -28,7 +28,7 @@
 
 ### What I'm Currently Reading 📚
 <!-- GOODREADS-LIST:START -->
-- [The Alignment Problem: Machine Learning and Human Values](https://www.goodreads.com/review/show/5177523091?utm_medium=api&utm_source=rss) by Brian Christian (⭐️4.42)
+- [The Alignment Problem: Machine Learning and Human Values](https://www.goodreads.com/review/show/5177523091?utm_medium=api&utm_source=rss) by Brian Christian (⭐️4.41)
 - [The Origins of Totalitarianism](https://www.goodreads.com/review/show/4618985717?utm_medium=api&utm_source=rss) by Hannah Arendt (⭐️4.29)
 - [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.goodreads.com/review/show/4617796276?utm_medium=api&utm_source=rss) by Aurélien Géron (⭐️4.53)
 - [UNIX for Dummies](https://www.goodreads.com/review/show/4709140028?utm_medium=api&utm_source=rss) by John R. Levine (⭐️3.36)
