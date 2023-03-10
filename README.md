@@ -65,6 +65,7 @@ Here are some ideas to get you started:
 * git config -l
 * git config --global credential.helper cache
 * git status , get a status of all files
+* On windows with Git Bash use windows login. In the bash shell use:  git config --global credential.helper wincred
     
 #### Setting a token
 - [Generating a PAT Token](https://github.com/settings/tokens/)
