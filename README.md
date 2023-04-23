@@ -31,7 +31,6 @@
 - [The Origins of Totalitarianism](https://www.goodreads.com/review/show/4618985717?utm_medium=api&utm_source=rss) by Hannah Arendt (⭐️4.29)
 - [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.goodreads.com/review/show/4617796276?utm_medium=api&utm_source=rss) by Aurélien Géron (⭐️4.54)
 - [UNIX for Dummies](https://www.goodreads.com/review/show/4709140028?utm_medium=api&utm_source=rss) by John R. Levine (⭐️3.36)
-- [The Overstory](https://www.goodreads.com/review/show/4976793733?utm_medium=api&utm_source=rss) by Richard Powers (⭐️4.1)
 <!-- GOODREADS-LIST:END -->
 
 ### Last 5 Books I've Read 📚
