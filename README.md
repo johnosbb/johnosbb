@@ -38,11 +38,11 @@
 
 ### Last 5 Books I've Read 📚
 <!-- GOODREADS-READ-LIST:START -->
+- [They Say / I Say: The Moves That Matter in Academic Writing](https://www.goodreads.com/review/show/5672654388?utm_medium=api&utm_source=rss) by Gerald Graff (unrated)
 - [How to Write a Sentence: And How to Read One](https://www.goodreads.com/review/show/5563029935?utm_medium=api&utm_source=rss) by Stanley Fish (⭐⭐)
 - [Lord of the Flies](https://www.goodreads.com/review/show/4403154126?utm_medium=api&utm_source=rss) by William Golding (⭐⭐⭐⭐⭐)
 - [How Democracies Die: What History Reveals About Our Future](https://www.goodreads.com/review/show/4403139981?utm_medium=api&utm_source=rss) by Steven Levitsky (⭐⭐⭐⭐⭐)
 - [On Tyranny: Twenty Lessons from the Twentieth Century](https://www.goodreads.com/review/show/4362375653?utm_medium=api&utm_source=rss) by Timothy Snyder (⭐⭐⭐⭐)
-- [On Chesil Beach](https://www.goodreads.com/review/show/4366047286?utm_medium=api&utm_source=rss) by Ian McEwan (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!--
