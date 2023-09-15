@@ -68,6 +68,7 @@ Here are some ideas to get you started:
 * git config -l
 * git config --global credential.helper cache
 * git status , get a status of all files
+* git rm -r --cached Classification/Syslog/data/ # removed cached files from local repository
 * On windows with Git Bash use windows login. In the bash shell use:  git config --global credential.helper wincred
     
 #### Setting a token
