@@ -28,7 +28,7 @@
 
 ### What I'm Currently Reading 📚
 <!-- GOODREADS-LIST:START -->
-- [Psych: The Story of the Human Mind](https://www.goodreads.com/review/show/5516554930?utm_medium=api&utm_source=rss) by Paul Bloom (⭐️4.18)
+- [Psych: The Story of the Human Mind](https://www.goodreads.com/review/show/5516554930?utm_medium=api&utm_source=rss) by Paul Bloom (⭐️4.19)
 - [Transforming The Living Legacy of Trauma: A Workbook for Survivors and Therapists](https://www.goodreads.com/review/show/5696016860?utm_medium=api&utm_source=rss) by Janina Fisher (⭐️4.63)
 - [The Origins of Totalitarianism](https://www.goodreads.com/review/show/4618985717?utm_medium=api&utm_source=rss) by Hannah Arendt (⭐️4.29)
 - [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.goodreads.com/review/show/4617796276?utm_medium=api&utm_source=rss) by Aurélien Géron (⭐️4.54)
