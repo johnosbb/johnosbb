@@ -28,8 +28,10 @@
 
 ### What I'm Currently Reading 📚
 <!-- GOODREADS-LIST:START -->
-- [The Beekeeper of Aleppo](https://www.goodreads.com/review/show/4653129491?utm_medium=api&utm_source=rss) by Christy Lefteri (⭐️4.15)
-- [To Rise Again at a Decent Hour](https://www.goodreads.com/review/show/5298213285?utm_medium=api&utm_source=rss) by Joshua Ferris (⭐️3.08)
+- [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.goodreads.com/review/show/4617796276?utm_medium=api&utm_source=rss) by Aurélien Géron (⭐️4.54)
+- [UNIX for Dummies](https://www.goodreads.com/review/show/4709140028?utm_medium=api&utm_source=rss) by John R. Levine (⭐️3.36)
+- [Psych: The Story of the Human Mind](https://www.goodreads.com/review/show/5516554930?utm_medium=api&utm_source=rss) by Paul Bloom (⭐️4.17)
+- [Chip War: The Fight for the World's Most Critical Technology](https://www.goodreads.com/review/show/5672653225?utm_medium=api&utm_source=rss) by Chris   Miller (⭐️4.43)
 <!-- GOODREADS-LIST:END -->
 
 ### Last 5 Books I've Read 📚
