@@ -3,13 +3,13 @@
 <div align="center">
     <h3>NLP</h3>
      <a href="https://github.com/johnosbb/NLP">
-         <img alt="Qries" src="https://github.com/johnosbb/Grammatical-Evolution/blob/main/ga.png"
+         <img alt="Qries" src="https://github.com/johnosbb/johnosbb/blob/main/network-8276891_1920.jpg"
          width=400">
       </a>  
 </div>
 
 <div align="center">
-    <h3>NLP</h3>
+    <h3>Artifical Intelligence</h3>
      <a href="https://github.com/johnosbb/Artificial-intelligence">
          <img alt="Qries" src="https://github.com/johnosbb/johnosbb/blob/main/mechanical-2033446_1920.jpg"
          width=400">
