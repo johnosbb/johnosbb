@@ -11,7 +11,7 @@
 <div align="center">
     <h3>Artifical Intelligence</h3>
      <a href="https://github.com/johnosbb/Artificial-intelligence">
-         <img alt="Qries" src="https://github.com/johnosbb/johnosbb/blob/main/mechanical-2033446_1920.jpg"
+         <img alt="Qries" src="https://github.com/johnosbb/johnosbb/blob/main/mind-544404_1280.png"
          width=400">
       </a>  
 </div>
