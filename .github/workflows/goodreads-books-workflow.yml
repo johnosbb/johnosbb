@@ -16,6 +16,11 @@ jobs:
         with:
           goodreads_user_id: "98607043"
           shelf: "currently-reading"
+       # what you're currently reading
+      - uses: zwacky/goodreads-profile-workflow@v1.2.2
+        with:
+          goodreads_user_id: "98607043"
+          shelf: "to-read"    
       # the last 5 books you've read
       - uses: zwacky/goodreads-profile-workflow@v1.2.2
         with:
