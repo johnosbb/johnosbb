@@ -35,6 +35,18 @@
 </div>
 
 
+| Left Column                          | Right Column                         |
+| ----------------------------------- | ----------------------------------- |
+| **NLP**                              | **Artificial Intelligence**          |
+| [![NLP](https://github.com/johnosbb/johnosbb/blob/main/network-8276891_1920.jpg)](https://github.com/johnosbb/NLP) | [![AI](https://github.com/johnosbb/johnosbb/blob/main/mind-544404_1280.png)](https://github.com/johnosbb/Artificial-intelligence) |
+| Description for NLP project         | Description for AI project           |
+| **Grammatical Evolution - Master's Thesis** | **Lyrical - The First Choice for Creative Writing** |
+| [![Thesis](https://github.com/johnosbb/Grammatical-Evolution/blob/main/ga.png)](https://github.com/johnosbb/Grammatical-Evolution) | [![Lyrical](https://github.com/johnosbb/Lyrical/blob/main/Lyrical.png)](https://github.com/johnosbb/Lyrical) |
+| Description for thesis project      | Description for Lyrical project       |
+
+
+
+
 ### Other Projects 🔭
  - [](https://github.com/johnosbb/Artificial-intelligence)
  - [](https://github.com/johnosbb/NLP)
