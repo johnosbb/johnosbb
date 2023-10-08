@@ -35,7 +35,7 @@
 </div>
 
 
-| Left Column                          | Right Column                         |
+|                           |                       |
 | ----------------------------------- | ----------------------------------- |
 | **NLP**                              | **Artificial Intelligence**          |
 | [![NLP](https://github.com/johnosbb/johnosbb/blob/main/network-8276891_1920.jpg)](https://github.com/johnosbb/NLP) | [![AI](https://github.com/johnosbb/johnosbb/blob/main/mind-544404_1280.png)](https://github.com/johnosbb/Artificial-intelligence) |
