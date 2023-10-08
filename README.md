@@ -28,15 +28,7 @@
 
 ### What I'm Currently Reading 📚
 <!-- GOODREADS-LIST:START -->
-- [L.E.L.: The Lost Life and Scandalous Death of Letitia Elizabeth Landon, the Celebrated "Female Byron"](https://www.goodreads.com/review/show/5416479064?utm_medium=api&utm_source=rss) by Lucasta Miller (⭐️3.89)
 - [The Beekeeper of Aleppo](https://www.goodreads.com/review/show/4653129491?utm_medium=api&utm_source=rss) by Christy Lefteri (⭐️4.15)
-- [The Steal: The Attempt to Overturn the 2020 Election and The People Who Stopped It](https://www.goodreads.com/review/show/4566346835?utm_medium=api&utm_source=rss) by Mark Bowden (⭐️4.06)
-- [Over the Edge of the World: Magellan's Terrifying Circumnavigation of the Globe](https://www.goodreads.com/review/show/4566344338?utm_medium=api&utm_source=rss) by Laurence Bergreen (⭐️4.12)
-- [The Last Place on Earth: Scott and Amundsen's Race to the South Pole (Exploration)](https://www.goodreads.com/review/show/4566343834?utm_medium=api&utm_source=rss) by Roland Huntford (⭐️4.33)
-- [The Worst Journey in the World](https://www.goodreads.com/review/show/4566343605?utm_medium=api&utm_source=rss) by Apsley Cherry-Garrard (⭐️4.17)
-- [Touching the Void: The True Story of One Man's Miraculous Survival](https://www.goodreads.com/review/show/4566343033?utm_medium=api&utm_source=rss) by Joe Simpson (⭐️4.22)
-- [Little Panic: Dispatches from an Anxious Life](https://www.goodreads.com/review/show/5092950670?utm_medium=api&utm_source=rss) by Amanda  Stern (⭐️3.95)
-- [Love Letters: Virginia Woolf and Vita Sackville-West](https://www.goodreads.com/review/show/5147816198?utm_medium=api&utm_source=rss) by Virginia Woolf (⭐️4.55)
 - [To Rise Again at a Decent Hour](https://www.goodreads.com/review/show/5298213285?utm_medium=api&utm_source=rss) by Joshua Ferris (⭐️3.08)
 <!-- GOODREADS-LIST:END -->
 
