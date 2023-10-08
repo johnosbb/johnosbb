@@ -1,48 +1,15 @@
 ### Main Projects ###
 
-<div align="center">
-    <h3>NLP</h3>
-     <a href="https://github.com/johnosbb/NLP">
-         <img alt="Qries" src="https://github.com/johnosbb/johnosbb/blob/main/network-8276891_1920.jpg"
-         width=400">
-      </a>  
-</div>
-
-<div align="center">
-    <h3>Artifical Intelligence</h3>
-     <a href="https://github.com/johnosbb/Artificial-intelligence">
-         <img alt="Qries" src="https://github.com/johnosbb/johnosbb/blob/main/mind-544404_1280.png"
-         width=400">
-      </a>  
-</div>
-
-<div align="center">
-    <h3>Grammatical Evolution - Master's Thesis</h3>
-     <a href="https://github.com/johnosbb/Grammatical-Evolution">
-         <img alt="Qries" src="https://github.com/johnosbb/Grammatical-Evolution/blob/main/ga.png"
-         width=400">
-      </a>
-  
-</div>
-
-<div align="center">
-     <h3>Lyrical - The First Choice for Creative Writing</h3>
-     <a href="https://github.com/johnosbb/Lyrical">
-         <img alt="Qries" src="https://github.com/johnosbb/Lyrical/blob/main/Lyrical.png"
-         width=400">
-      </a>
-   
-</div>
 
 
 |                           |                       |
 | ----------------------------------- | ----------------------------------- |
 | **NLP**                              | **Artificial Intelligence**          |
 | [![NLP](https://github.com/johnosbb/johnosbb/blob/main/network-8276891_1920.jpg)](https://github.com/johnosbb/NLP) | [![AI](https://github.com/johnosbb/johnosbb/blob/main/mind-544404_1280.png)](https://github.com/johnosbb/Artificial-intelligence) |
-| Description for NLP project         | Description for AI project           |
+| All Things NLP: SpaCy, nktk etc         | All Things Artificial intelligence          |
 | **Grammatical Evolution - Master's Thesis** | **Lyrical - The First Choice for Creative Writing** |
 | [![Thesis](https://github.com/johnosbb/Grammatical-Evolution/blob/main/ga.png)](https://github.com/johnosbb/Grammatical-Evolution) | [![Lyrical](https://github.com/johnosbb/Lyrical/blob/main/Lyrical.png)](https://github.com/johnosbb/Lyrical) |
-| Description for thesis project      | Description for Lyrical project       |
+| Master's Research Thesis in AI      | An Editor for Creative Writing     |
 
 
 
