@@ -36,11 +36,11 @@
 
 ### Last 5 Books I've Read 📚
 <!-- GOODREADS-READ-LIST:START -->
-- [They Say / I Say: The Moves That Matter in Academic Writing](https://www.goodreads.com/review/show/5672654388?utm_medium=api&utm_source=rss) by Gerald Graff (unrated)
+- [Natural Language Processing with Python and spaCy: A Practical Introduction](https://www.goodreads.com/review/show/4617779345?utm_medium=api&utm_source=rss) by Yuli Vasiliev (⭐⭐⭐⭐)
+- [Flutter for Beginners: An introductory guide to building cross-platform mobile applications with Flutter 2.5 and Dart, 2nd Edition](https://www.goodreads.com/review/show/4838144718?utm_medium=api&utm_source=rss) by Thomas Bailey (unrated)
+- [The Alignment Problem: Machine Learning and Human Values](https://www.goodreads.com/review/show/5177523091?utm_medium=api&utm_source=rss) by Brian Christian (⭐⭐⭐⭐⭐)
+- [Once Upon a Prime: The Wondrous Connections Between Mathematics and Literature](https://www.goodreads.com/review/show/5560473847?utm_medium=api&utm_source=rss) by Sarah  Hart (⭐⭐⭐)
 - [How to Write a Sentence: And How to Read One](https://www.goodreads.com/review/show/5563029935?utm_medium=api&utm_source=rss) by Stanley Fish (⭐⭐)
-- [Lord of the Flies](https://www.goodreads.com/review/show/4403154126?utm_medium=api&utm_source=rss) by William Golding (⭐⭐⭐⭐⭐)
-- [How Democracies Die: What History Reveals About Our Future](https://www.goodreads.com/review/show/4403139981?utm_medium=api&utm_source=rss) by Steven Levitsky (⭐⭐⭐⭐⭐)
-- [On Tyranny: Twenty Lessons from the Twentieth Century](https://www.goodreads.com/review/show/4362375653?utm_medium=api&utm_source=rss) by Timothy Snyder (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 <!--
