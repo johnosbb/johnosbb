@@ -9,7 +9,7 @@
 | All Things NLP: SpaCy, nktk etc         | All Things Artificial intelligence          |
 | **Grammatical Evolution - Master's Thesis** | **Lyrical - The First Choice for Creative Writing** |
 | [![Thesis](https://github.com/johnosbb/Grammatical-Evolution/blob/main/ga.png)](https://github.com/johnosbb/Grammatical-Evolution) | [![Lyrical](https://github.com/johnosbb/Lyrical/blob/main/Lyrical.png)](https://github.com/johnosbb/Lyrical) |
-| Master's Research Thesis in AI      | An Editor for Creative Writing     |
+| My Master's Research Thesis in AI      | An Editor for Creative Writing     |
 
 
 
