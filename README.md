@@ -28,6 +28,7 @@
 
 ### What I'm Currently Reading 📚
 <!-- GOODREADS-LIST:START -->
+- [Linux Kernel Debugging: Leverage proven tools and advanced techniques to effectively debug Linux kernels and kernel modules](https://www.goodreads.com/review/show/5894761870?utm_medium=api&utm_source=rss) by Kaiwan N Billimoria (⭐️5)
 - [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.goodreads.com/review/show/4617796276?utm_medium=api&utm_source=rss) by Aurélien Géron (⭐️4.54)
 - [UNIX for Dummies](https://www.goodreads.com/review/show/4709140028?utm_medium=api&utm_source=rss) by John R. Levine (⭐️3.36)
 - [Psych: The Story of the Human Mind](https://www.goodreads.com/review/show/5516554930?utm_medium=api&utm_source=rss) by Paul Bloom (⭐️4.17)
