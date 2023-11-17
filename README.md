@@ -39,7 +39,7 @@
 <!-- GOODREADS-READ-LIST:START -->
 - [Linux Kernel Programming: A comprehensive guide to kernel internals, writing kernel modules, and kernel synchronization](https://www.goodreads.com/review/show/5894762742?utm_medium=api&utm_source=rss) by Kaiwan N Billimoria (unrated)
 - [Natural Language Processing with Python and spaCy: A Practical Introduction](https://www.goodreads.com/review/show/4617779345?utm_medium=api&utm_source=rss) by Yuli Vasiliev (⭐⭐⭐⭐)
-- [Flutter for Beginners: An introductory guide to building cross-platform mobile applications with Flutter 2.5 and Dart, 2nd Edition](https://www.goodreads.com/review/show/4838144718?utm_medium=api&utm_source=rss) by Thomas Bailey (unrated)
+- [Flutter for Beginners: An introductory guide to building cross-platform mobile applications with Flutter 2.5 and Dart](https://www.goodreads.com/review/show/4838144718?utm_medium=api&utm_source=rss) by Thomas Bailey (unrated)
 - [The Alignment Problem: Machine Learning and Human Values](https://www.goodreads.com/review/show/5177523091?utm_medium=api&utm_source=rss) by Brian Christian (⭐⭐⭐⭐⭐)
 - [Once Upon a Prime: The Wondrous Connections Between Mathematics and Literature](https://www.goodreads.com/review/show/5560473847?utm_medium=api&utm_source=rss) by Sarah  Hart (⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
