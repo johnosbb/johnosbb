@@ -6,7 +6,7 @@
 | ----------------------------------- | ----------------------------------- |
 | **NLP**                              | **Artificial Intelligence**          |
 | [![NLP](https://github.com/johnosbb/johnosbb/blob/main/network-8276891_1920.jpg)](https://github.com/johnosbb/NLP) | [![AI](https://github.com/johnosbb/johnosbb/blob/main/mind-544404_1280.png)](https://github.com/johnosbb/Artificial-intelligence) |
-| All Things NLP: SpaCy, nktk etc         | All Things Artificial intelligence          |
+| All Things NLP: SpaCy, NTLK etc         | All Things Artificial intelligence          |
 | **Grammatical Evolution - Master's Thesis** | **Lyrical - The First Choice for Creative Writing** |
 | [![Thesis](https://github.com/johnosbb/Grammatical-Evolution/blob/main/ga.png)](https://github.com/johnosbb/Grammatical-Evolution) | [![Lyrical](https://github.com/johnosbb/Lyrical/blob/main/Lyrical.png)](https://github.com/johnosbb/Lyrical) |
 | My Master's Research Thesis in AI      | An Editor for Creative Writing     |
