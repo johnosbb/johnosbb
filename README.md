@@ -77,5 +77,50 @@ Here are some ideas to get you started:
   
     
  #### Checking out older versions
- - [Getting older versions from Github](https://githowto.com/getting_old_versions)   
-    
+ - [Getting older versions from Github](https://githowto.com/getting_old_versions)
+
+### Python
+
+- [Setting up Virtual Environments](https://www.youtube.com/watch?v=KxvKCSwlUv8)
+
+```txt
+python3.9 -m venv venvironname
+```
+This creates
+
+```txt
+ls venvtl/
+bin
+include
+lib
+lib64
+pyvenv.cfg
+```
+
+To use this environment
+
+```txt
+activate venvironname
+```
+
+Or in Conda
+
+```txt
+conda create --name venvtl
+```
+
+```txt
+conda activate venvtl
+```
+
+To deactivate, use 
+
+```txt
+conda deactivate
+```
+
+To list available environments use:
+
+'''txt
+conda info --envs
+```
