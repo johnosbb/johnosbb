@@ -121,6 +121,6 @@ conda deactivate
 
 To list available environments use:
 
-'''txt
+``txt
 conda info --envs
 ```
