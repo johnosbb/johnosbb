@@ -119,6 +119,10 @@ To deactivate, use
 conda deactivate
 ```
 
+```txt
+conda env remove --name venvtl
+```
+
 To list available environments use:
 
 ```txt
