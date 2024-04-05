@@ -34,6 +34,7 @@
 - [Psych: The Story of the Human Mind](https://www.goodreads.com/review/show/5516554930?utm_medium=api&utm_source=rss) by Paul Bloom (⭐️4.14)
 - [Chip War: The Fight for the World's Most Critical Technology](https://www.goodreads.com/review/show/5672653225?utm_medium=api&utm_source=rss) by Chris   Miller (⭐️4.41)
 - [UNIX for Dummies](https://www.goodreads.com/review/show/4709140028?utm_medium=api&utm_source=rss) by John R. Levine (⭐️3.36)
+- [Transfer Learning for Natural Language Processing](https://www.goodreads.com/review/show/6403743131?utm_medium=api&utm_source=rss) by Paul Azunre (⭐️4)
 <!-- GOODREADS-LIST:END -->
 
 ### Last 5 Books I've Read 📚
