@@ -5,7 +5,7 @@
 |                           |                       |
 | ----------------------------------- | ----------------------------------- |
 | **MicroTFLite**                     |  **Automation**                     |
-| ![image](https://github.com/user-attachments/assets/9c2bd0e8-b827-4340-9ab9-8c6f60741699) | ![image](https://github.com/user-attachments/assets/9c9853d7-297f-4614-b642-c10fe6eff995)  |
+| ![image](https://github.com/user-attachments/assets/9c2bd0e8-b827-4340-9ab9-8c6f60741699) | [![Automation](https://github.com/user-attachments/assets/9c9853d7-297f-4614-b642-c10fe6eff995)](https://github.com/johnosbb/Automation/wiki)  |
 |        A TensorFlow Lite Micro Library in Arduino Style                                            | Principaly a wiki of technologies related to Home Automation that I have evaluated |
 | **NLP**                              | **Artificial Intelligence**          |
 | [![NLP](https://github.com/johnosbb/johnosbb/blob/main/network-8276891_1920.jpg)](https://github.com/johnosbb/NLP) | [![AI](https://github.com/johnosbb/johnosbb/blob/main/mind-544404_1280.png)](https://github.com/johnosbb/Artificial-intelligence) |
