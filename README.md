@@ -13,6 +13,9 @@
 | **Grammatical Evolution - Master's Thesis** | **Lyrical - The First Choice for Creative Writing** |
 | [![Thesis](https://github.com/johnosbb/Grammatical-Evolution/blob/main/ga.png)](https://github.com/johnosbb/Grammatical-Evolution) | [![Lyrical](https://github.com/johnosbb/Lyrical/blob/main/Lyrical.png)](https://github.com/johnosbb/Lyrical) |
 | My Master's Research Thesis in AI      | An Editor for Creative Writing     |
+| **Darknet Embedded** |  |
+| [![Darnet Embedded](https://github.com/user-attachments/assets/e40d842b-38df-492a-8290-d5111e2a1074)](https://github.com/johnosbb/darknet_embedded) |  |
+| Darnet for Embedded Devices      |     |
 
 
 
