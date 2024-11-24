@@ -10,12 +10,12 @@
 | **NLP**                              | **Artificial Intelligence**          |
 | [![NLP](https://github.com/johnosbb/johnosbb/blob/main/network-8276891_1920.jpg)](https://github.com/johnosbb/NLP) | [![AI](https://github.com/johnosbb/johnosbb/blob/main/mind-544404_1280.png)](https://github.com/johnosbb/Artificial-intelligence) |
 | All Things NLP: SpaCy, NTLK etc         | All Things Artificial intelligence          |
-| **Grammatical Evolution - Master's Thesis** | **Lyrical - The First Choice for Creative Writing** |
-| [![Thesis](https://github.com/johnosbb/Grammatical-Evolution/blob/main/ga.png)](https://github.com/johnosbb/Grammatical-Evolution) | [![Lyrical](https://github.com/johnosbb/Lyrical/blob/main/Lyrical.png)](https://github.com/johnosbb/Lyrical) |
-| My Master's Research Thesis in AI      | An Editor for Creative Writing     |
-| **Darknet Embedded** |  |
-| [![Darnet Embedded](https://github.com/user-attachments/assets/e40d842b-38df-492a-8290-d5111e2a1074)](https://github.com/johnosbb/darknet_embedded) |  |
-| Darnet for Embedded Devices      |     |
+| **Grammatical Evolution - Master's Thesis** | **Darknet Embedded** |
+| [![Thesis](https://github.com/johnosbb/Grammatical-Evolution/blob/main/ga.png)](https://github.com/johnosbb/Grammatical-Evolution) | [![Darknet Embedded](https://github.com/user-attachments/assets/e40d842b-38df-492a-8290-d5111e2a1074)](https://github.com/johnosbb/darknet_embedded) |
+| My Master's Research Thesis in AI      | Darknet for Embedded Devices     |
+| **Darknet Embedded** | **Lyrical - The First Choice for Creative Writing**  |
+| [![Darknet Embedded](https://github.com/user-attachments/assets/e40d842b-38df-492a-8290-d5111e2a1074)](https://github.com/johnosbb/darknet_embedded) | [![Lyrical](https://github.com/johnosbb/Lyrical/blob/main/Lyrical.png)](https://github.com/johnosbb/Lyrical) |
+| Darknet for Embedded Devices      |  An Editor for Creative Writing    |
 
 
 
