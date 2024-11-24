@@ -13,9 +13,9 @@
 | **Grammatical Evolution - Master's Thesis** | **Darknet Embedded** |
 | [![Thesis](https://github.com/johnosbb/Grammatical-Evolution/blob/main/ga.png)](https://github.com/johnosbb/Grammatical-Evolution) | [![Darknet Embedded](https://github.com/user-attachments/assets/e40d842b-38df-492a-8290-d5111e2a1074)](https://github.com/johnosbb/darknet_embedded) |
 | My Master's Research Thesis in AI      | Darknet for Embedded Devices     |
-| **Darknet Embedded** | **Lyrical - The First Choice for Creative Writing**  |
-| [![Darknet Embedded](https://github.com/user-attachments/assets/e40d842b-38df-492a-8290-d5111e2a1074)](https://github.com/johnosbb/darknet_embedded) | [![Lyrical](https://github.com/johnosbb/Lyrical/blob/main/Lyrical.png)](https://github.com/johnosbb/Lyrical) |
-| Darknet for Embedded Devices      |  An Editor for Creative Writing    |
+| **Cyber Security** | **Lyrical - The First Choice for Creative Writing**  |
+| [![Cyber Security](https://github.com/johnosbb/CyberTools/blob/main/CyberSecurity.jpg)](https://github.com/johnosbb/CyberTools/blob/main/README.md) | [![Lyrical](https://github.com/johnosbb/Lyrical/blob/main/Lyrical.png)](https://github.com/johnosbb/Lyrical) |
+| Cyber Security      |  An Editor for Creative Writing    |
 
 
 
