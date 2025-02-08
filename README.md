@@ -17,7 +17,7 @@
 | [![Cyber Security](https://github.com/johnosbb/CyberTools/blob/main/CyberSecurity.jpg)](https://github.com/johnosbb/CyberTools/blob/main/README.md) | [![Lyrical](https://github.com/johnosbb/Lyrical/blob/main/Lyrical.png)](https://github.com/johnosbb/Lyrical) |
 | Cyber Security      |  An Editor for Creative Writing    |
 | **HX1838Decoder** | **Lyrical - The First Choice for Creative Writing**  |
-| [![HX1838Decoder](https://github.com/johnosbb/hx1838decoder/tree/main/resources)](https://github.com/johnosbb/hx1838decoder/blob/main/README.md) | [![Lyrical](https://github.com/johnosbb/Lyrical/blob/main/Lyrical.png)](https://github.com/johnosbb/Lyrical) |
+| [![HX1838Decoder](https://github.com/johnosbb/hx1838decoder/tree/main/resources/promotionImage.png)](https://github.com/johnosbb/hx1838decoder/blob/main/README.md) | [![Lyrical](https://github.com/johnosbb/Lyrical/blob/main/Lyrical.png)](https://github.com/johnosbb/Lyrical) |
 | HX1838Decoder      |  An Editor for Creative Writing    |
 
 
