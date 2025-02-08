@@ -16,9 +16,9 @@
 | **Cyber Security** | **Lyrical - The First Choice for Creative Writing**  |
 | [![Cyber Security](https://github.com/johnosbb/CyberTools/blob/main/CyberSecurity.jpg)](https://github.com/johnosbb/CyberTools/blob/main/README.md) | [![Lyrical](https://github.com/johnosbb/Lyrical/blob/main/Lyrical.png)](https://github.com/johnosbb/Lyrical) |
 | Cyber Security      |  An Editor for Creative Writing    |
-| **NLP**  | **Lyrical - The First Choice for Creative Writing**  |
-| [![NLP](https://github.com/johnosbb/johnosbb/blob/main/network-8276891_1920.jpg)](https://github.com/johnosbb/NLP) | [![Lyrical](https://github.com/johnosbb/Lyrical/blob/main/Lyrical.png)](https://github.com/johnosbb/Lyrical) |
-|   All Things NLP: SpaCy, NTLK etc    |  An Editor for Creative Writing    |
+| **NLP**  |  |
+| [![NLP](https://github.com/johnosbb/johnosbb/blob/main/network-8276891_1920.jpg)](https://github.com/johnosbb/NLP) | |
+|   All Things NLP: SpaCy, NTLK etc    |     |
 
 
 
