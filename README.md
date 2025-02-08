@@ -7,21 +7,22 @@
 | **MicroTFLite**                     |  **Automation**                     |
 | [![MicroTFLite](https://github.com/user-attachments/assets/9c2bd0e8-b827-4340-9ab9-8c6f60741699)](https://github.com/johnosbb/MicroTFLite) | [![Automation](https://github.com/user-attachments/assets/9c9853d7-297f-4614-b642-c10fe6eff995)](https://github.com/johnosbb/Automation/wiki)  |
 |        A TensorFlow Lite Micro Library in Arduino Style                                            | Principaly a wiki of technologies related to Home Automation that I have evaluated |
-| **NLP**                              | **Artificial Intelligence**          |
-| [![NLP](https://github.com/johnosbb/johnosbb/blob/main/network-8276891_1920.jpg)](https://github.com/johnosbb/NLP) | [![AI](https://github.com/johnosbb/johnosbb/blob/main/mind-544404_1280.png)](https://github.com/johnosbb/Artificial-intelligence) |
-| All Things NLP: SpaCy, NTLK etc         | All Things Artificial intelligence          |
+|       **HX1838Decoder**                       | **Artificial Intelligence**          |
+| [![HX1838Decoder](https://github.com/johnosbb/hx1838decoder/blob/main/resources/promotionImage.png)](https://github.com/johnosbb/hx1838decoder/blob/main/README.md)  | [![AI](https://github.com/johnosbb/johnosbb/blob/main/mind-544404_1280.png)](https://github.com/johnosbb/Artificial-intelligence) |
+|   HX1838Decoder    | All Things Artificial intelligence          |
 | **Grammatical Evolution - Master's Thesis** | **Darknet Embedded** |
 | [![Thesis](https://github.com/johnosbb/Grammatical-Evolution/blob/main/ga.png)](https://github.com/johnosbb/Grammatical-Evolution) | [![Darknet Embedded](https://github.com/user-attachments/assets/e40d842b-38df-492a-8290-d5111e2a1074)](https://github.com/johnosbb/darknet_embedded) |
 | My Master's Research Thesis in AI      | Darknet for Embedded Devices     |
 | **Cyber Security** | **Lyrical - The First Choice for Creative Writing**  |
 | [![Cyber Security](https://github.com/johnosbb/CyberTools/blob/main/CyberSecurity.jpg)](https://github.com/johnosbb/CyberTools/blob/main/README.md) | [![Lyrical](https://github.com/johnosbb/Lyrical/blob/main/Lyrical.png)](https://github.com/johnosbb/Lyrical) |
 | Cyber Security      |  An Editor for Creative Writing    |
-| **HX1838Decoder** | **Lyrical - The First Choice for Creative Writing**  |
-| [![HX1838Decoder](https://github.com/johnosbb/hx1838decoder/blob/main/resources/promotionImage.png)](https://github.com/johnosbb/hx1838decoder/blob/main/README.md) | [![Lyrical](https://github.com/johnosbb/Lyrical/blob/main/Lyrical.png)](https://github.com/johnosbb/Lyrical) |
-| HX1838Decoder      |  An Editor for Creative Writing    |
+| **NLP**  | **Lyrical - The First Choice for Creative Writing**  |
+| [![NLP](https://github.com/johnosbb/johnosbb/blob/main/network-8276891_1920.jpg)](https://github.com/johnosbb/NLP) | [![Lyrical](https://github.com/johnosbb/Lyrical/blob/main/Lyrical.png)](https://github.com/johnosbb/Lyrical) |
+|   All Things NLP: SpaCy, NTLK etc    |  An Editor for Creative Writing    |
 
 
 
+   
 
 ### Other Projects 🔭
 
